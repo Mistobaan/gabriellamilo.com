@@ -1,7 +1,6 @@
 # Gabriella Milo
 
-## In this section you have to give an idea of who you are and what did you
-achieve. talk in first person
+## In this section you have to give an idea of who you are and what did you achieve. talk in first person
 
 I am experienced in architecture, luxury interior design and project management, through various internship positions and project competitions.
 

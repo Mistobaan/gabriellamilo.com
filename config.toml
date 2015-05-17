@@ -1,3 +1,23 @@
-baseurl = "http://yourSiteHere/"
 languageCode = "en-us"
-title = "My New Hugo Site"
+contentdir = "content"
+publishdir = "public"
+builddrafts = false
+baseurl = "http://gabriellamilo.com/"
+canonifyurls = true
+title = "Gabriella Milo"
+author = "Gabriella Milo"
+
+[indexes]
+	category = "categories"
+	tag = "tags"
+[Params]
+	AuthorName = "Gabriella Milo"
+	flickr = "gabmilo"
+	twitter = "gabmilo"
+	email = "gabriella.milo@gmail.com"
+	description = "Architecture & Planning Professional - Rome, Italy"
+	cv = "/about/curriculum/"
+	muut = "fredrikloch"
+	linkedin = "gabriellamilo"
+	cover = "/images/background-cover.jpg"
+	logo = "/images/gabriella.jpg"
